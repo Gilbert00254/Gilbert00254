@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rap1j!ku
+- 👋 Hi, I’m G@rap
 - 👀 I’m interested in ...data analysis
 - 🌱 I’m currently learning ...R programming
 - 💞️ I’m looking to collaborate on ...Project Mamangent in R
